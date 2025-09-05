@@ -1,1 +1,1 @@
-![Resume](https://raw.githubusercontent.com/<sarthakthapliyal01>/<repo-name>/main/my-resume)
+![Resume](https://raw.githubusercontent.com/sarthakthapliyal01/my-resume-/main/resume.png)
