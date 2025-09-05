@@ -1,1 +1,1 @@
-![Resume](https://raw.githubusercontent.com/sarthakthapliyal01/my-resume-/main/MyResume.png)
+![Resume]([https://raw.githubusercontent.com/sarthakthapliyal01/my-resume-/main/MyResume.png](https://github.com/sarthakthapliyal01/my-resume-/blob/6a2d98885558ef4ca1c6677c8f18944628bcebe1/Sarthak%20Thapliyal's%20Resume.pdf)****)
