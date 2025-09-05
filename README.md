@@ -2,6 +2,6 @@
 
 This is the resume of **Sarthak Thapliyal**
 
-![Resume Preview](Sarthak%20Thapliyal's%20Resume_page-0001.jpg)
+<img src="Sarthak%20Thapliyal's%20Resume_page-0001.jpg" alt="Resume Preview" width="600">
 
 📄 [Download Full Resume (PDF)](Sarthak%20Thapliyal's%20Resume.pdf)
