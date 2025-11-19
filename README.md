@@ -1,7 +1,11 @@
-# My Resume
+<h1>My Resume</h1>
 
-This is the resume of **Sarthak Thapliyal**
+<p>This is the resume of <b>Sarthak Thapliyal</b></p>
 
-<img src="Sarthak Thapliyal's Resume_page-0001.jpg" alt="Resume Preview" width="600">
+<p align="center">
+  <img src="my-resume/Sarthak%20Thapliyal%27s%20Resume_page-0001.png" width="600">
+</p>
 
-📄 [Download Full Resume (PDF)](my-resume/Sarthak%20Thapliyal's%20Resume.pdf)
+<p>
+  📄 <a href="my-resume/Sarthak%20Thapliyal%27s%20Resume.pdf">Download Full Resume (PDF)</a>
+</p>
